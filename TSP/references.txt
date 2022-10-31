@@ -1,0 +1,6 @@
+REFERENCES:
+1. https://youtu.be/xqbfwYhDF4k --explain about what GA is and it's basics. 
+2. https://youtu.be/jgbsottGET8 --explain about it's Python Coding and corresponding things
+
+PROCEDURE:
+1. Start with chromosome.py code
